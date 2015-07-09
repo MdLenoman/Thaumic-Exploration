@@ -141,7 +141,7 @@ item.thaumicexploration:jarSeal:Dark.name=黑色罐子封蜡
 ----Block Names----
 tile.thaumicexploration:thinkTankJar.name=冥想之缸
 tile.thaumicexploration:everfullUrn.name=无尽之壶
-tile.thaumicexploration:everburnUrn.name=Everburn Urn
+tile.thaumicexploration:everburnUrn.name=炼狱之壶
 tile.thaumicexploration:crucibleSouls.name=灵魂坩埚
 tile.thaumicexploration:replicator.name=神秘复制器
 tile.thaumicexploration:trashJar.name=湮没罐子
@@ -179,7 +179,8 @@ te.text.TRASHJAR.2=泯灭之罐的吸力在所有罐子中是最弱的,这意味
 --Soul Brazier
 te.name.SOULBRAZIER=Soul Brazier
 te.tag.SOULBRAZIER=Warp is bad mmkay?
-te.text.SOULBRAZIER.1=Warp is a dangerous, malicious force. While in a mind, it is bad enough, released onto the world it is worse, this is why we have made a way to hold this warp safeish. It needs both vis from a node, and Mortus essentia, but it can hold the warp the player has, without too much damage to the enviroment
+te.text.SOULBRAZIER.1=扭曲是一个危险邪恶的力量. 虽然保留在神智里它是糟糕的, 但让其散发到世界里将会更加糟糕, 这就是我们为什么要保持原有的扭曲. 它需要节点提供vis和死亡要素, 但它可以保持玩家原有的扭曲, 且不会对环境造成太大的伤害
+
 
 
 --Taintacle Ring
@@ -236,9 +237,9 @@ te.text.URN.1=你在研究中读到了许多关于'无尽之壶'的东西,一个
 te.text.URN.1B=你在研究中读到了许多关于'无尽之壶'的东西,一个由伟大的神秘使Azanor创作的神秘装置,作为一个无限水源而工作.你终于做出了一个能那样工作并有其他功能的装置.<BR><BR>你的无尽之壶不仅可以装满无限桶水,它也能从顶部用管道导出水到外部容器.你的壶也能主动填满附近的坩埚,给着火的玩家灭火.<BR><BR>The Urn is also able to fill nearby Petal Apothecaries, if one chooses to dabble in floral magic.
 
 --Everburn Urn
-te.name.BURN=Everburn Urn
-te.tag.BURN=Why did I make it out of fire??
-te.text.BURN.1=After researching more into your Everfull Urn, you find a way to generate lava with one.<BR><BR>You find that unlike water, lava needs energy to produce, and so, the Everburn urn as you decide to call it, will need Centivis to power it. Your Everfull Urn can not only supply lava to buckets, it can also be pumped out of the top to an external tank.
+te.name.BURN=炼狱之壶
+te.tag.BURN=为什么我能理解火??
+te.text.BURN.1=在研究无尽之壶之后, 你找到一种生成岩浆的方法.<BR><BR>你发现它和水有所不同, 岩浆需要能源, 所以你将其称之为炼狱之罐, 它需要Centivis去驱动它. 你的炼狱之壶不仅能够用桶来装岩浆, 它也能够从顶部输出到外部的储罐.
 
 --Crucible of Souls
 te.name.CRUCSOULS=灵魂坩埚
